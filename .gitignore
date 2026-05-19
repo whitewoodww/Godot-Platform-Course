@@ -1,0 +1,13 @@
+# Godot
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Sistema
+.DS_Store
+Thumbs.db
